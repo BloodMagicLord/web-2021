@@ -1,0 +1,45 @@
+/* message-box */
+.message-box {
+    border: 1px solid var(--border-color);
+    border-top-right-radius: var(--border-radius);
+    border-top-left-radius: var(--border-radius);
+    margin: 1rem auto;
+    padding: 1rem;
+    width: 50rem;
+}
+
+.message-box .select-user-field {
+    margin-bottom: 1rem;
+    width: 100%;
+    height: 100%;
+}
+
+.message-box .message-field {
+
+    width: 100%;
+    height: 100%;
+}
+
+.message-box .message-field textarea {
+    resize: none;
+}
+
+.message-box .value {
+    position: center;
+    width: 100%;
+    height: 100%;
+}
+
+.message-box .button-field {
+    margin: 1.5rem 1.5rem 1.5rem 12rem;
+}
+
+.message-box .button-field input {
+    padding: 0.1rem 1.5rem;
+}
+
+.message-box .error {
+    color: var(--error-color);
+    font-size: 0.75rem;
+    margin-left: 12rem;
+}

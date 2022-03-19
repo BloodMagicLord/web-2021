@@ -1,0 +1,31 @@
+/* article */
+.articles .article {
+    margin: 1rem 0;
+}
+
+.article .title {
+    margin-top: 2rem;
+    font-weight: bold;
+    font-size: 1.25rem;
+    color: var(--caption-color);
+}
+
+.article .information {
+    margin: 1rem 0;
+    font-size: 1rem;
+    color: var(--border-color);
+}
+
+.article .body {
+    margin: 1rem 0;
+    padding-left: 1rem;
+    border-left: 5px solid var(--border-color);
+    font-size: 1rem;
+    line-height: 1.15rem;
+}
+
+.article .footer {
+    padding: 1rem;
+    border: 2px solid var(--border-color);
+    border-radius: var(--border-radius);
+}
