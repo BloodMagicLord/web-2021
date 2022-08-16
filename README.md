@@ -1,4 +1,5 @@
-# WEB-программирование
-Домашние работы по СП: Web-программирование, ITMO 2021-2022, 2 курс
+# WEB
+
+Homeworks from WEB-programming course, ITMO 2021-2022
 
 
