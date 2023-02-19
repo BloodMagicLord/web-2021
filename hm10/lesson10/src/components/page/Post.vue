@@ -1,7 +1,7 @@
 <template>
   <div name="post">
     <IndexPost :post="post" :author="users[post.userId].login" :commentsCount="commentsCount"/>
-    <Comments :postComments="postComments" :users="users"/>c
+    <Comments :postComments="postComments" :users="users"/>
   </div>
 </template>
 
